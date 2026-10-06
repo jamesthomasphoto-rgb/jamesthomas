@@ -1,0 +1,1211 @@
+{
+ "sub": "Build a business that runs without you. Then go live the life it pays for.",
+ "forTxt": "Ninety days, one course a week, with me on the call every week. For anyone building an online business — creatives, agency owners, and every kind of service business, from the first client to the day it runs without you.",
+ "meta": [
+  "90 Days",
+  "15 Courses",
+  "105 Lessons"
+ ],
+ "one": {
+  "h": "Build the business. Build yourself.",
+  "lead": "This is the exact process I've used to build my own companies and to train the people who now run them. It isn't theory. It's what I did, written down in order, so you can do it too.",
+  "pull": "My process is simple: you build the business, and you build yourself. Not two projects. One.",
+  "paras": [
+   "A finished business has a definition. You can leave it, sell it, or run it from your phone on the other side of the world — and it holds. Anything less is a job you own. Everything in these ninety days is built toward that finish line: time freedom, location freedom and financial freedom, designed in from day one instead of hoped for at the end."
+  ],
+  "pillars": [
+   [
+    "The weekly live call",
+    "Every week with me. Thirty minutes of teaching, thirty minutes of your questions. Every call is recorded."
+   ],
+   [
+    "The Classroom",
+    "Fifteen courses over twelve weeks, in the order I'd teach you one-on-one — plus tracks for your industry."
+   ],
+   [
+    "The Vault",
+    "The guides, templates, scripts and systems we actually run our own agency on."
+   ],
+   [
+    "The community",
+    "People building the same thing, at every stage. Post your numbers. Ask real questions."
+   ]
+  ]
+ },
+ "stagesIntro": "Everyone runs all ninety days, in order. Your stage tells you where to push hardest. Most people are one stage behind where they think they are. That's normal, and it's the fastest way through.",
+ "stages": [
+  [
+   "0",
+   "Starting from zero",
+   "No business yet. You want an online business and the freedom that comes with it.",
+   "Course 02"
+  ],
+  [
+   "1",
+   "Doing it all",
+   "Freelancer or solo operator. You find the work, do the work, chase the invoice. Feast or famine.",
+   "Courses 03–05"
+  ],
+  [
+   "2",
+   "It runs through you",
+   "Real revenue, real clients — and every one of them needs you. Around $10–30K a month.",
+   "Courses 06–09"
+  ],
+  [
+   "3",
+   "A team, not a machine",
+   "People on payroll, but you're still the bottleneck. Around $30–100K a month.",
+   "Courses 09–12"
+  ],
+  [
+   "4",
+   "Owner, not operator",
+   "It runs without you. Now it's about scale, deals, and the life it pays for.",
+   "Courses 13–14"
+  ]
+ ],
+ "movesIntro": "The program is ninety days: one move a month, one course a week, one live call a week. It's the same path I walked my brother through — from someone who just wanted to have a company, to running one fully remote at six figures a month.",
+ "moves": [
+  {
+   "n": "01",
+   "t": "Money In",
+   "w": "Days 1–30 · Weeks 1–4",
+   "p": "An offer people understand, a steady flow of leads, and you selling it with confidence. Cash coming in every week."
+  },
+  {
+   "n": "02",
+   "t": "The Machine",
+   "w": "Days 31–60 · Weeks 5–8",
+   "p": "Someone else delivers. Systems, SOPs, a CRM, your first hires. Clients stay, and the work moves without you touching it."
+  },
+  {
+   "n": "03",
+   "t": "Step Out",
+   "w": "Days 61–90 · Weeks 9–12",
+   "p": "The numbers run on a scoreboard, the team runs the day, and you run the company from your phone — anywhere."
+  }
+ ],
+ "under": "Rich · Fit · Sick runs underneath all ninety days. Rich — the work, the learning, a rich life. Fit — train every day. Sick — mindset, reading, style, the standard you hold. The business and the person get built at the same time.",
+ "tenIntro": "I've looked at a lot of businesses. When one is stuck, it's stuck on one of these ten — in any industry, at any size. Find yours, and go straight to the course that fixes it.",
+ "weeks": [
+  [
+   "1",
+   "Money In",
+   "00 Start Here · 01 The Standard",
+   "Post your stage, your target and your date in the community."
+  ],
+  [
+   "2",
+   "Money In",
+   "03 The Offer & Pricing (02 Start From Zero first, if you have no business yet)",
+   "Write your offer in one sentence, and your three packages."
+  ],
+  [
+   "3",
+   "Money In",
+   "04 Marketing & Lead Generation",
+   "Build a list of 100 buyers and start 20 conversations."
+  ],
+  [
+   "4",
+   "Money In",
+   "05 Sales",
+   "Run ten calls with the script and log every objection you hear."
+  ],
+  [
+   "5",
+   "The Machine",
+   "06 Delivery & Client Experience",
+   "Map your delivery steps and put a committed date on every one."
+  ],
+  [
+   "6",
+   "The Machine",
+   "07 Buy Back Your Time",
+   "Track one week, then hand off your biggest repeatable task."
+  ],
+  [
+   "7",
+   "The Machine",
+   "08 Recruiting & Hiring",
+   "Write one job post and run three paid trials."
+  ],
+  [
+   "8",
+   "The Machine",
+   "09 Delegation & Systems",
+   "Write SOPs for your three most repeated jobs."
+  ],
+  [
+   "9",
+   "Step Out",
+   "10 Leadership & Managing a Team",
+   "Set one weekly team meeting and one scoreboard."
+  ],
+  [
+   "10",
+   "Step Out",
+   "11 Money",
+   "Write your target and the weekly lead number it takes to hit it."
+  ],
+  [
+   "11",
+   "Step Out",
+   "12 Get Out of the Work",
+   "Build your replacement map and hand off the first role this month."
+  ],
+  [
+   "12",
+   "Step Out",
+   "13 Scale · 14 The Life",
+   "Name your constraint and your one move for the next 90 days."
+  ]
+ ],
+ "ten": [
+  [
+   "Leads",
+   "Course 04"
+  ],
+  [
+   "Marketing",
+   "Course 04"
+  ],
+  [
+   "Sales",
+   "Course 05"
+  ],
+  [
+   "Client retention",
+   "Course 06"
+  ],
+  [
+   "Churn",
+   "Course 06"
+  ],
+  [
+   "Recruiting",
+   "Course 08"
+  ],
+  [
+   "Delegation",
+   "Course 09"
+  ],
+  [
+   "Managing a team",
+   "Course 10"
+  ],
+  [
+   "Leadership",
+   "Course 10"
+  ],
+  [
+   "Scaling",
+   "Course 13"
+  ]
+ ],
+ "tocIntro": "One a week, in the order I'd teach you one-on-one. Each course ends with one assignment. Do it before you move on — that's where the results are.",
+ "courses": [
+  {
+   "n": "00",
+   "tag": "Course 00 · Week 1 · 6 lessons",
+   "h": "Start Here",
+   "st": "Welcome to The Method.",
+   "out": "Your stage, your target, and your first seven days mapped out.",
+   "lessons": [
+    [
+     "00.1",
+     "Welcome to The Method",
+     "00.1"
+    ],
+    [
+     "00.2",
+     "How to win in here",
+     "00.2"
+    ],
+    [
+     "00.3",
+     "Find your stage",
+     "The five stages — and exactly where you start."
+    ],
+    [
+     "00.4",
+     "Set your target",
+     "The monthly number, the date, and the life it pays for."
+    ],
+    [
+     "00.5",
+     "The James Method in ten minutes",
+     "Build the business, build yourself. Three moves, ninety days."
+    ],
+    [
+     "00.6",
+     "Your first seven days",
+     "The checklist every new member runs."
+    ]
+   ],
+   "doThis": "Post your stage, your target and your date in the community.",
+   "vault": [
+    [
+     "The AI-Proof Creative (guide)",
+     "on"
+    ]
+   ]
+  },
+  {
+   "n": "01",
+   "tag": "Course 01 · Week 1 · 7 lessons",
+   "h": "The Standard",
+   "st": "Mindset, and Rich · Fit · Sick.",
+   "out": "Your daily standard written down — and the beliefs that were capping you, named.",
+   "lessons": [
+    [
+     "01.1",
+     "You are not the product. The standard is.",
+     "01.1"
+    ],
+    [
+     "01.2",
+     "The ceiling you installed yourself",
+     "01.2"
+    ],
+    [
+     "01.3",
+     "Rich · Fit · Sick",
+     "Rich — the work, the learning, a rich life. Fit — train every day. Sick — mindset, reading, style."
+    ],
+    [
+     "01.4",
+     "Freedom is the spec, not the prize",
+     "Design for time, location and financial freedom from day one."
+    ],
+    [
+     "01.5",
+     "Breaking feast or famine",
+     "Chase a job, do it all, get paid, burn out, start again. How to get off the loop."
+    ],
+    [
+     "01.6",
+     "Discipline over motivation",
+     "Habits, routine and standards — what the Marine Corps taught me about showing up."
+    ],
+    [
+     "01.7",
+     "Walkthrough: my day, my week",
+     "How I actually run my time."
+    ]
+   ],
+   "doThis": "Write your daily standard — train, read, one deep work block, one sales action — and hold it for 14 days.",
+   "vault": [
+    [
+     "Daily Standard tracker",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "02",
+   "tag": "Course 02 · Week 2 · Money In · If you're starting from zero · 7 lessons",
+   "h": "Start From Zero",
+   "st": "The online service business.",
+   "out": "A service picked, a first offer written, and your first ten conversations booked.",
+   "lessons": [
+    [
+     "02.1",
+     "Why a service business",
+     "02.1"
+    ],
+    [
+     "02.2",
+     "Service business arbitrage",
+     "02.2"
+    ],
+    [
+     "02.3",
+     "Pick your service",
+     "What people already pay for, that you can sell and someone else can do."
+    ],
+    [
+     "02.4",
+     "Set it up in a weekend",
+     "A name, a one-page offer, a payment link and a simple CRM."
+    ],
+    [
+     "02.5",
+     "Your first client",
+     "Start with who you already know — and what to say to them."
+    ],
+    [
+     "02.6",
+     "Your first delivery",
+     "Find the person who does the work, manage the job, keep the client."
+    ],
+    [
+     "02.7",
+     "Mistakes that kill it in month one",
+     "And how to avoid every one of them."
+    ]
+   ],
+   "doThis": "Pick one service and book ten conversations this week.",
+   "vault": [
+    [
+     "Service picker worksheet",
+     "off"
+    ],
+    [
+     "One-page offer template",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "03",
+   "tag": "Course 03 · Week 2 · Money In · 7 lessons",
+   "h": "The Offer & Pricing",
+   "st": "What you sell, and what you charge for it.",
+   "out": "One offer people understand in a sentence — priced on value, packaged as recurring.",
+   "lessons": [
+    [
+     "03.1",
+     "Sell the outcome, not the task",
+     "03.1"
+    ],
+    [
+     "03.2",
+     "The offer formula",
+     "03.2"
+    ],
+    [
+     "03.3",
+     "Package it",
+     "Project, package, retainer — and why each one exists."
+    ],
+    [
+     "03.4",
+     "Recurring revenue",
+     "Why every client should be on a contract, and how to get them there."
+    ],
+    [
+     "03.5",
+     "Price on value",
+     "How I charge ten times the market — and hold it."
+    ],
+    [
+     "03.6",
+     "Guarantees and risk reversal",
+     "Remove the risk and win the yes — done properly."
+    ],
+    [
+     "03.7",
+     "Teardown: a real offer, rebuilt live",
+     "Before and after, line by line."
+    ]
+   ],
+   "doThis": "Write your offer in one sentence, and your three packages.",
+   "vault": [
+    [
+     "Proposal Template",
+     "on"
+    ],
+    [
+     "Offer worksheet",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "04",
+   "tag": "Course 04 · Week 3 · Money In · 9 lessons",
+   "h": "Marketing & Lead Generation",
+   "st": "The engine. Everything starts here.",
+   "out": "A lead machine that brings you conversations every week — whether you feel like it or not.",
+   "lessons": [
+    [
+     "04.1",
+     "Leads are the whole game",
+     "04.1"
+    ],
+    [
+     "04.2",
+     "Know exactly who you sell to",
+     "04.2"
+    ],
+    [
+     "04.3",
+     "Build your lists",
+     "Where your buyers actually are, and how to reach every one of them."
+    ],
+    [
+     "04.4",
+     "Outreach that doesn't feel gross",
+     "Email, DMs, calls and LinkedIn — what to say and how often."
+    ],
+    [
+     "04.5",
+     "Content that turns into clients",
+     "Proof, not posts."
+    ],
+    [
+     "04.6",
+     "Going viral on purpose",
+     "What I've learned from going viral many times over."
+    ],
+    [
+     "04.7",
+     "Referrals and win-backs",
+     "The clients you already have are your cheapest leads."
+    ],
+    [
+     "04.8",
+     "Paid ads",
+     "When to run them — and when you're not ready yet."
+    ],
+    [
+     "04.9",
+     "The weekly lead scoreboard",
+     "The one number you check every Monday."
+    ]
+   ],
+   "doThis": "Build a list of 100 buyers and start 20 conversations.",
+   "vault": [
+    [
+     "Why Your Property's Social Isn't Producing Leads (guide)",
+     "on"
+    ],
+    [
+     "Outreach script pack",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "05",
+   "tag": "Course 05 · Week 4 · Money In · 8 lessons",
+   "h": "Sales",
+   "st": "Help people buy.",
+   "out": "A call script, an answer to every objection, and a follow-up system that closes.",
+   "lessons": [
+    [
+     "05.1",
+     "Selling is helping",
+     "05.1"
+    ],
+    [
+     "05.2",
+     "The discovery call",
+     "05.2"
+    ],
+    [
+     "05.3",
+     "Present the offer and the price",
+     "Say the number, then stop talking."
+    ],
+    [
+     "05.4",
+     "Objections",
+     "Price, timing, “let me think”, “I need to ask my partner.”"
+    ],
+    [
+     "05.5",
+     "Closing",
+     "Taking the payment on the call."
+    ],
+    [
+     "05.6",
+     "Follow-up",
+     "Most deals close after the fifth touch. Most people stop at one."
+    ],
+    [
+     "05.7",
+     "High-ticket sales",
+     "Selling $5K, $25K and $100K engagements."
+    ],
+    [
+     "05.8",
+     "Drills: real calls, broken down",
+     "What worked, what didn't, and what to say instead."
+    ]
+   ],
+   "doThis": "Run ten calls with the script and log every objection you hear.",
+   "vault": [
+    [
+     "Discovery call script",
+     "off"
+    ],
+    [
+     "Objection sheet",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "06",
+   "tag": "Course 06 · Week 5 · The Machine · 7 lessons",
+   "h": "Delivery & Client Experience",
+   "st": "Keep every client for years.",
+   "out": "A delivery process with a date on everything — and clients who stay.",
+   "lessons": [
+    [
+     "06.1",
+     "Make every client feel like your only client",
+     "06.1"
+    ],
+    [
+     "06.2",
+     "From order to delivered",
+     "06.2"
+    ],
+    [
+     "06.3",
+     "Quality control without doing it yourself",
+     "Checklists, reviews and the standard."
+    ],
+    [
+     "06.4",
+     "Communication that keeps clients",
+     "Update them before they ask."
+    ],
+    [
+     "06.5",
+     "Revisions, complaints and saving a relationship",
+     "Turning an upset client into your biggest fan."
+    ],
+    [
+     "06.6",
+     "Retention and churn",
+     "Why clients leave, and how to keep them."
+    ],
+    [
+     "06.7",
+     "Walkthrough: contracts that run for years",
+     "How our clients stay 12, 24, 38 months."
+    ]
+   ],
+   "doThis": "Map your delivery steps and put a committed date on every one.",
+   "vault": [
+    [
+     "The Recurring Client Playbook (guide)",
+     "on"
+    ],
+    [
+     "Grove Central White Paper",
+     "on"
+    ]
+   ]
+  },
+  {
+   "n": "07",
+   "tag": "Course 07 · Week 6 · The Machine · 6 lessons",
+   "h": "Buy Back Your Time",
+   "st": "Your hours are the first thing you get back.",
+   "out": "A list of the only things you should be doing — and your first task handed off.",
+   "lessons": [
+    [
+     "07.1",
+     "What your hour is worth",
+     "07.1"
+    ],
+    [
+     "07.2",
+     "The time audit",
+     "07.2"
+    ],
+    [
+     "07.3",
+     "The only things you should be doing",
+     "Everything else is a candidate to hand off."
+    ],
+    [
+     "07.4",
+     "Your first handoff",
+     "The task that gives you back the most hours."
+    ],
+    [
+     "07.5",
+     "Tools and AI that buy back hours this week",
+     "The fastest wins, no team required."
+    ],
+    [
+     "07.6",
+     "Protect the time you win back",
+     "Or it fills right back up."
+    ]
+   ],
+   "doThis": "Track one week, then hand off your biggest repeatable task.",
+   "vault": [
+    [
+     "Time audit sheet",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "08",
+   "tag": "Course 08 · Week 7 · The Machine · 7 lessons",
+   "h": "Recruiting & Hiring",
+   "st": "Talent is the business.",
+   "out": "A hiring process that finds good people on demand — and a bench, so nobody is irreplaceable.",
+   "lessons": [
+    [
+     "08.1",
+     "Talent is the business",
+     "08.1"
+    ],
+    [
+     "08.2",
+     "Contractors or employees",
+     "08.2"
+    ],
+    [
+     "08.3",
+     "Where to find good people",
+     "Anywhere in the world."
+    ],
+    [
+     "08.4",
+     "The post, the screen, the paid trial",
+     "Test the work before you commit."
+    ],
+    [
+     "08.5",
+     "Score and choose",
+     "Hire slow, let go fast."
+    ],
+    [
+     "08.6",
+     "Onboarding and protecting your business",
+     "NDAs, agreements and access."
+    ],
+    [
+     "08.7",
+     "Keep a bench",
+     "Five good people ready for every role, at all times."
+    ]
+   ],
+   "doThis": "Write one job post and run three paid trials.",
+   "vault": [
+    [
+     "Job post + paid trial template",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "09",
+   "tag": "Course 09 · Week 8 · The Machine · 6 lessons",
+   "h": "Delegation & Systems",
+   "st": "If it lives in your head, it isn't a system.",
+   "out": "SOPs for your core work, a CRM that runs the company, and work that moves without you.",
+   "lessons": [
+    [
+     "09.1",
+     "If it's in your head, it isn't a system",
+     "09.1"
+    ],
+    [
+     "09.2",
+     "Write an SOP in 30 minutes",
+     "09.2"
+    ],
+    [
+     "09.3",
+     "The CRM",
+     "One place for every lead, client, job and dollar — the setup we run on."
+    ],
+    [
+     "09.4",
+     "Delegate so it sticks",
+     "Outcome, standard, deadline, check-in."
+    ],
+    [
+     "09.5",
+     "The machine",
+     "People, process, tools and AI, working together."
+    ],
+    [
+     "09.6",
+     "Walkthrough: the operating system behind my agency",
+     "How a national company runs without me in the room."
+    ]
+   ],
+   "doThis": "Write SOPs for your three most repeated jobs.",
+   "vault": [
+    [
+     "SOP template",
+     "off"
+    ],
+    [
+     "CRM template",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "10",
+   "tag": "Course 10 · Week 9 · The Machine · 7 lessons",
+   "h": "Leadership & Managing a Team",
+   "st": "From doing the work to leading it.",
+   "out": "Standards your team holds without you, a weekly rhythm, and your first manager.",
+   "lessons": [
+    [
+     "10.1",
+     "From doer to leader",
+     "10.1"
+    ],
+    [
+     "10.2",
+     "Set the standard, and hold it",
+     "10.2"
+    ],
+    [
+     "10.3",
+     "The weekly rhythm",
+     "Meetings, scoreboards and check-ins."
+    ],
+    [
+     "10.4",
+     "Accountability without micromanaging",
+     "Trust, with a scoreboard."
+    ],
+    [
+     "10.5",
+     "Hard conversations",
+     "Feedback, letting people go, and doing it well."
+    ],
+    [
+     "10.6",
+     "Your first manager",
+     "Who, when, and how to hand them the keys."
+    ],
+    [
+     "10.7",
+     "Leading a remote team",
+     "Culture when nobody's in the same room."
+    ]
+   ],
+   "doThis": "Set one weekly team meeting and one scoreboard.",
+   "vault": [
+    [
+     "Weekly meeting agenda",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "11",
+   "tag": "Course 11 · Week 10 · Step Out · 7 lessons",
+   "h": "Money",
+   "st": "Revenue targets and the numbers.",
+   "out": "A revenue target broken down into weekly actions — and numbers you actually understand.",
+   "lessons": [
+    [
+     "11.1",
+     "Set the target",
+     "11.1"
+    ],
+    [
+     "11.2",
+     "Work it backwards",
+     "11.2"
+    ],
+    [
+     "11.3",
+     "The numbers every owner knows",
+     "Revenue, margin, cash and pipeline."
+    ],
+    [
+     "11.4",
+     "Margins",
+     "Charge on value, pay the market rate."
+    ],
+    [
+     "11.5",
+     "Cash, bills and paying yourself",
+     "Know what's coming, and when."
+    ],
+    [
+     "11.6",
+     "Organize the money",
+     "Accounts, books and peace of mind."
+    ],
+    [
+     "11.7",
+     "Hit the number every month",
+     "The monthly scoreboard."
+    ]
+   ],
+   "doThis": "Write your target and the weekly lead number it takes to hit it.",
+   "vault": [
+    [
+     "Revenue target calculator",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "12",
+   "tag": "Course 12 · Week 11 · Step Out · 7 lessons",
+   "h": "Get Out of the Work",
+   "st": "Replace yourself, one role at a time.",
+   "out": "A plan to replace yourself role by role — and a business you can run from your phone.",
+   "lessons": [
+    [
+     "12.1",
+     "A finished business has a definition",
+     "12.1"
+    ],
+    [
+     "12.2",
+     "The replacement map",
+     "12.2"
+    ],
+    [
+     "12.3",
+     "Step out of delivery first",
+     "The work goes before anything else."
+    ],
+    [
+     "12.4",
+     "Then sales",
+     "Train someone to sell it like you do."
+    ],
+    [
+     "12.5",
+     "Then management",
+     "Hand over the operation."
+    ],
+    [
+     "12.6",
+     "Run it remote",
+     "From your phone, from anywhere."
+    ],
+    [
+     "12.7",
+     "Walkthrough: how I handed a company to my brother",
+     "Four steps — the work, the selling, the hiring, the operation."
+    ]
+   ],
+   "doThis": "Build your replacement map and hand off the first role this month.",
+   "vault": [
+    [
+     "Replacement map",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "13",
+   "tag": "Course 13 · Week 12 · Step Out · 7 lessons",
+   "h": "Scale",
+   "st": "The same machine, bigger.",
+   "out": "The one constraint holding your growth — and the move that breaks it.",
+   "lessons": [
+    [
+     "13.1",
+     "Find the one constraint",
+     "13.1"
+    ],
+    [
+     "13.2",
+     "More clients, bigger clients, more per client",
+     "13.2"
+    ],
+    [
+     "13.3",
+     "Add offers",
+     "Build the ladder."
+    ],
+    [
+     "13.4",
+     "New markets, same machine",
+     "Clone what works into the next niche."
+    ],
+    [
+     "13.5",
+     "Partnerships, equity and deals",
+     "When to take a stake instead of a fee."
+    ],
+    [
+     "13.6",
+     "Build something you can sell",
+     "Designing for an exit."
+    ],
+    [
+     "13.7",
+     "The next level of you",
+     "The person who can hold what you're building."
+    ]
+   ],
+   "doThis": "Name your constraint and your one move for the next 90 days.",
+   "vault": [
+    [
+     "90-day scale plan",
+     "off"
+    ]
+   ]
+  },
+  {
+   "n": "14",
+   "tag": "Course 14 · Week 12 · Step Out · 7 lessons",
+   "h": "The Life",
+   "st": "Freedom, health, wealth and relationships.",
+   "out": "The life the business is for — written down and on the calendar.",
+   "lessons": [
+    [
+     "14.1",
+     "Nobody actually wants a company",
+     "14.1"
+    ],
+    [
+     "14.2",
+     "Time freedom",
+     "14.2"
+    ],
+    [
+     "14.3",
+     "Location freedom",
+     "Work from anywhere."
+    ],
+    [
+     "14.4",
+     "Financial freedom",
+     "Save, invest, and buy the life — not the number."
+    ],
+    [
+     "14.5",
+     "Health",
+     "Train like it matters. It does."
+    ],
+    [
+     "14.6",
+     "Relationships",
+     "The people you're building it for."
+    ],
+    [
+     "14.7",
+     "Give back",
+     "Help the people coming up behind you."
+    ]
+   ],
+   "doThis": "Write down the life you're building toward — and put the first trip on the calendar.",
+   "vault": []
+  }
+ ],
+ "tracksIntro": "The fifteen courses work for any service business. The tracks apply them to your world — the niches, the numbers and the language of the people you sell to. Take the core courses first, then the track that fits you.",
+ "tracks": [
+  {
+   "l": "A",
+   "h": "Creatives — Camera to Company",
+   "w": "Photographers, videographers and designers.",
+   "items": [
+    "The AI-proof creative",
+    "Price the outcome, not the shoot",
+    "Retainers and recurring clients",
+    "Hire your shooters and editors",
+    "Stop going to the shoots",
+    "The niches that pay — weddings, real estate, brands"
+   ],
+   "r": "In the Vault: The AI-Proof Creative · The Recurring Client Playbook"
+  },
+  {
+   "l": "B",
+   "h": "Any Service Business",
+   "w": "Cleaning, trades, consulting, local services.",
+   "items": [
+    "Getting your business online",
+    "Local leads on demand",
+    "Crews and contractors",
+    "Recurring contracts",
+    "Pricing a job",
+    "Reviews and reputation"
+   ],
+   "r": ""
+  },
+  {
+   "l": "C",
+   "h": "Agency Owners",
+   "w": "Running an agency, or about to start one.",
+   "items": [
+    "From freelancer to agency",
+    "Build the team under you",
+    "Sell retainers, not projects",
+    "Margins that fund growth",
+    "Client retention at scale",
+    "Step out of the agency"
+   ],
+   "r": ""
+  },
+  {
+   "l": "D",
+   "h": "AI for Operators",
+   "w": "For every member, every business.",
+   "items": [
+    "Where AI belongs in your workflow",
+    "Prompts that do a day's work",
+    "Automate the admin",
+    "What never to automate",
+    "Staying AI-proof"
+   ],
+   "r": "In the Vault: 5 AI Prompts for CRE Marketing"
+  },
+  {
+   "l": "E",
+   "h": "Commercial Real Estate",
+   "w": "Owners, brokers and leasing teams.",
+   "items": [
+    "Social that produces leads",
+    "Marketing a building that leases",
+    "Training the leasing team",
+    "Broker marketing",
+    "Case study: Grove Central"
+   ],
+   "r": "In the Vault: Why Your Property's Social Isn't Producing Leads · 5 AI Prompts for CRE Marketing · Grove Central White Paper"
+  },
+  {
+   "l": "F",
+   "h": "Veterans — Service to Business",
+   "w": "For Marines and veterans getting out.",
+   "items": [
+    "Your skills, translated",
+    "Your first online service business",
+    "Discipline as a business advantage",
+    "Building the team the way you were trained"
+   ],
+   "r": ""
+  },
+  {
+   "l": "G",
+   "h": "Sales Masters",
+   "w": "Weekly sales drilling. High-ticket.",
+   "items": [
+    "Weekly call reviews",
+    "Role-play drills",
+    "Objection library",
+    "High-ticket closing"
+   ],
+   "r": ""
+  },
+  {
+   "l": "H",
+   "h": "Artists & Personal Brands",
+   "w": "Musicians, creators, anyone with a name to build.",
+   "items": [
+    "Social that moves people",
+    "Turn attention into offers",
+    "Build the business under the name",
+    "The team behind the artist"
+   ],
+   "r": ""
+  }
+ ],
+ "vaultIntro": "Every guide, template and system in the Vault is something we use to run our own business. It grows every month.",
+ "vault": [
+  [
+   "The AI-Proof Creative",
+   "Guide · 6 pages",
+   "Camera skills into an agency that runs without you."
+  ],
+  [
+   "Why Your Property's Social Isn't Producing Leads",
+   "Guide · 6 pages",
+   "Five fixes for property marketing and leasing teams."
+  ],
+  [
+   "5 AI Prompts for CRE Marketing",
+   "Guide · 7 pages",
+   "Copy-paste prompts that do a day of CRE marketing in ten minutes."
+  ],
+  [
+   "The Recurring Client Playbook",
+   "Guide · 5 pages",
+   "Turning one-off clients into retainers."
+  ],
+  [
+   "Grove Central — What Actually Happened",
+   "White paper · 9 pages",
+   "A real lease-up, every number labeled by where it came from."
+  ],
+  [
+   "Proposal Template",
+   "Template · 9 pages",
+   "The proposal format we send to clients."
+  ]
+ ],
+ "coming": [
+  "Daily Standard tracker",
+  "Service picker worksheet",
+  "One-page offer template",
+  "Offer worksheet",
+  "Outreach script pack",
+  "Discovery call script",
+  "Objection sheet",
+  "Time audit sheet",
+  "Job post + paid trial template",
+  "SOP template",
+  "CRM template",
+  "Weekly meeting agenda",
+  "Revenue target calculator",
+  "Replacement map",
+  "90-day scale plan"
+ ],
+ "rhythm": [
+  [
+   "Monday",
+   "Post your target for the week and the one number you're moving."
+  ],
+  [
+   "The live call",
+   "Thirty minutes of teaching, thirty minutes of your questions. Recorded into the Classroom."
+  ],
+  [
+   "Friday",
+   "Post your wins and your misses. Both count."
+  ]
+ ],
+ "rules": [
+  [
+   "01",
+   "Show your work.",
+   "Wins, misses, work in progress. This room runs on real reps."
+  ],
+  [
+   "02",
+   "Ask specific questions.",
+   "“How do I get clients?” gets less than “Here's my offer, my market, and what's broken.”"
+  ],
+  [
+   "03",
+   "What's shared here stays here.",
+   "Members' numbers and businesses are private."
+  ],
+  [
+   "04",
+   "No pitching.",
+   "Help people. If you've helped someone, a DM is fine."
+  ],
+  [
+   "05",
+   "Do the assignments.",
+   "Every course ends with one. That's where the results are."
+  ]
+ ],
+ "close": {
+  "h": "Start withCourse 00.",
+  "p": "You don't need to know everything to begin. You need to know your stage, your target, and the next step. The rest comes one course at a time, one week at a time, with me on the call every week.",
+  "steps": [
+   [
+    "01",
+    "Watch Course 00 — it takes less than an hour."
+   ],
+   [
+    "02",
+    "Post your stage, your target and your date in the community."
+   ],
+   [
+    "03",
+    "Show up to the next live call with one real question."
+   ]
+  ],
+  "fine": "The Method — James Thomas · The 90-Day Program (2026). This curriculum is educational and reflects one operator's real experience. Your results depend on your market, your effort and your starting point — nothing here is a promise of income. © 2026 James Thomas. For members of The Method only; please don't share or resell."
+ }
+}

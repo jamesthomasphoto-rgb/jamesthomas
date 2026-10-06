@@ -40,3 +40,11 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Do what's asked, then say in one or two lines what changed and where (table + stage), so James can find it in the interface.
 - Confirm before deleting, bulk-editing, or sending anything (email, text, Stripe link) to another person.
 - When something is learned about how James's system works, add it to this file.
+
+## The Method (SILENZIO's program) — the kit lives in `the-method/`
+
+- The Method is a **90-day program** (not six months): 3 moves (Money In · The Machine · Step Out), 12 weeks, 15 courses (00–14), 105 lessons, 8 tracks. `the-method/README.md` lists every document and the week-by-week schedule.
+- Editable masters: `the-method/The-Method-90-Day-Outline.md` and `the-method/source/program.json`. All PDFs are rebuilt from `the-method/source/*.html` with `node source/topdf.js in.html out.pdf` (Playwright; embed Google Fonts as base64 — the proxy blocks fonts.googleapis.com from Chromium).
+- Brand look: black/off-white, Anton (display, uppercase) · Fraunces italic (subheads) · Epilogue (body). US Letter.
+- When James asks for "the method" documents, he means the whole kit: one-pager → program → outline → lesson guide → call plan → workbook → Vault. Deliver all of it without being asked item by item.
+- Never invent facts about James's results or stories; use `[STORY: …]` placeholders.
