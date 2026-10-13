@@ -1,0 +1,1 @@
+window.Hls={isSupported:function(){return false}};
