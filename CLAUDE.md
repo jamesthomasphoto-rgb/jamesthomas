@@ -1,6 +1,6 @@
 # Working with James
 
-James runs THOMAS® (real-estate photo/video + social media), SILENZIO (mentorship / coaching) and CAPITAL. Most work in these sessions is on his Airtable, **MASTER OS**, not code. He's often live on a call and sends short messages ("he needs to be in the pipeline", "master os") — act fast, keep replies short and simple (a few lines, no long lists), and ask only when it truly matters.
+James runs THOMAS® (real-estate photo/video + social media), SILENZIO (mentorship / coaching) and CAPITAL. Most work in these sessions is on his Airtable, **MASTER OS**, not code. He's often live on a call and sends short messages ("he needs to be in the pipeline", "master os") — act fast, keep replies short and simple (a few lines, no long lists), and ask only when it truly matters. **Short responses always** — 2–3 lines max, even for status updates.
 
 ## MASTER OS — the source of truth
 
