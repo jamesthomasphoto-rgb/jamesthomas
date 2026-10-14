@@ -1,4 +1,4 @@
-# Edit Brief — [WORKING NAME] ([LENGTH] property video)
+# Edit Order — [WORKING NAME] ([LENGTH] property video)
 
 **From:** THOMAS® · **Project working name:** [WORKING NAME] · **Format:** 16:9 horizontal, 1080p (4K if source allows), ~2:00
 **First cut due:** [DATE, TIME ET] · **Revisions:** one round after first cut · **Pay:** $[RATE], on delivery of final
