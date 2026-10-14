@@ -42,7 +42,14 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 
 - Interface page People & Prospects → 📞 Call Center shows People with **Calls** (`fldYlAdBSHKLFFrtI`, select 0/1/2/3/4/5+) = 0. Calls = 0 means "call today".
 - James leaves notes in **Quick Note** (`fldDlxEOgG2ZV2niL`). Logging a call means: Calls +1, Last Contacted (`fldU36LBScLiU07TK`) and Last Called (`fld0rYiDhNeyt5jTx`) = the date, Call Outcome (`fldA9Swu7fh3mnNry`) set from the note.
-- Automation "📞 Call Center – load today's calls" (`wflcYjVHmm6w4LfXK`) runs daily at 7am Mexico City and fills the list back up to 25 New Prospects with a phone (Calls blank → 0).
+- Automation "📞 Call Center – load today's calls" (`wflcYjVHmm6w4LfXK`) runs daily at 7am Mexico City and fills the list back up to 25 New Prospects with a phone (Calls blank → 0). It's saved as a draft — **James has to switch it on** in Airtable (https://airtable.com/appgnA8q6KDPRqG17/wflcYjVHmm6w4LfXK); not yet confirmed on or tested.
+- Page id `pagKDQhMsM5rkBSWN` (interface `pbdrGtMNWazG2x1QH`). Its **ICP filter** (Photographers / Investment Sales) silently hides people — if James says some are missing, check that filter and tell him to hit Reset before touching data. Column order on interface pages can't be changed via API; James drags columns.
+- Two audit fields I added to People: **📞 Calls Updated** (`fldAbQKOV8pYcndCg`) and **📝 Quick Note Updated** (`fldZekMvWLCBhLmtR`) — last-modified stamps. Use them to find who James worked on and when. (Bulk imports stamp hundreds of records at once; filter to a narrow time window.)
+- **After a call session, the routine is:** read Quick Note → sort Stage/Temp (good talk = ✅ Qualified + Warm; `Status` `fldKN4ONwoylsg11g` is the temperature) → set Next Action (`fldbzKvQOMyLztDq2`) + Next Touch Date (`fldQPCdjJh7gVjAhs`) → move Calls to 1 → load the next 25 at 0. If James asks to put people "back to 0" first, do that before logging so he can talk it through.
+- ICP values seen: Photographers, Investment Sales (also Owner/Developer, Management, RE Agents, Renter, trades). Investment-sales pitch = photo/video/drone for OMs, flyers, listing launches.
+- **The Gmail connector is signed in as pollysmnva@gmail.com, not James's account** — drafts land there and a search can't see his inbox. Tell him where a draft is.
+- Legacy records migrated from the old SILENZIO base (9/29) can carry a false "Client · Cold" stage + CLIENT badge (e.g. Haley Davis) — pending James's call on cleanup (suggested: reset to New Prospect, clear badge).
+- Never commit call lists / phone numbers to git; hand them over as a file.
 
 ## How to work
 
