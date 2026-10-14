@@ -46,7 +46,7 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 
 ## Fulfillment rules (THOMAS®)
 
-- **Interface pages: James wants grid views with filter dropdowns, not list views.**
+- **Interface pages: grid views with filter dropdowns, not list views. Completed jobs sort newest first. Pages can't be renamed or reordered via the API — James drags them in the editor.**
 
 - **Write the edit brief the moment a video job closes**, not after the shoot. Template: `the-method/TEMPLATE-edit-brief.md`. Fill it from the deal's Request Details, put the link in the job's Notes, and it goes to the editor with the footage the day the shoot wraps.
 - **Fulfilment interface** (`pbdoHHbqWPBmtmRGy`) pages: **Shoots Fulfillment** (`pagSBuYja7bfuVE2E`, Fulfillment table, Workflow = Shoots, tabs Active/Editing, grouped by Stage) · **Master Fulfillment** (`pagNRnpvYYqS7Mw4A`, every non-shoot workflow — design, web, social, ads — with Stage / Co / Product Line dropdowns) · **Courses** (Students) · All Fulfilment · Schedule · Deadlines · the old Deals-based "Master Fulfilment". Fulfillment job field **🎬 Edit Brief** = `fldjTkFeKS0jUbs5q`.
