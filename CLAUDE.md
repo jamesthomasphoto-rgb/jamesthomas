@@ -4,6 +4,9 @@ James runs THOMAS® (real-estate photo/video + social media), SILENZIO (mentorsh
 
 ## MASTER OS — the source of truth
 
+- **Check access first, every session.** The Airtable connector does records only. Schema work (reorder/rename/delete select options, fields, views) needs Airtable's REST API with `$AIRTABLE_TOKEN` (env secret; PAT with data.records + schema.bases read/write). At session start: `test -n "$AIRTABLE_TOKEN"` — if missing, tell James once (title bar → cloud environment → Edit → Network secrets → `AIRTABLE_TOKEN`) and carry on with what doesn't need it. Never ask him to paste a token in chat.
+- **Open task once the token exists:** set Fulfillment `Stage` (`flduNq4jN5RfZbZ62`) option order to: Possible → Need Scheduling → Scheduling → Scheduled → Shoot Complete → Uploading → Post-Production → QC → Client Approval → Delivered → Complete → Reshoot → Cancelled → Planning → Content → Live → Reporting; delete the unused "Shot" and "Editing" options. (`PATCH https://api.airtable.com/v0/meta/bases/appgnA8q6KDPRqG17/tables/tbl2QjzKP60oyofE5/fields/flduNq4jN5RfZbZ62` with the full ordered `options.choices`, keeping existing choice ids.)
+
 - Base: **MASTER OS (V57)** — `appgnA8q6KDPRqG17` — https://airtable.com/appgnA8q6KDPRqG17
 - James works in its **interface**, not the raw tables. Sidebar pages: Overview, To-Do, Contacts & Prospects, **Sales & Deals → Deals Master**, Fulfillment, Finance, Contractors, Marketing, Social Media, Leasing, Operate, SILENZIO, CAPITAL.
 - When James says "the pipeline", "deals", "sales" or "master" he means the **Deals** table (shown as Deals Master), for every company — THOMAS®, SILENZIO and CAPITAL alike.
