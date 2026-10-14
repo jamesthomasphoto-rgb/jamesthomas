@@ -1,0 +1,6 @@
+# REEL renders and working media — never client footage in git
+reel/out/
+reel/jobs/*/media/
+!reel/jobs/_demo/media/.gitkeep
+__pycache__/
+*.pyc

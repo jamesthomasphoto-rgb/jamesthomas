@@ -1,0 +1,25 @@
+{
+  "job": "demo",
+  "profile": "listing",
+  "outputs": ["16:9", "9:16"],
+  "grade": "bright-airy",
+  "pacing": "balanced",
+  "music": "media/music.m4a",
+  "beat_sync": true,
+  "brand": {"bg": "#0B0B0C", "fg": "#FFFFFF", "accent": "#C8A24B"},
+  "intro": {"title": "THE DEMO", "subtitle": "Tampa, Florida", "seconds": 3},
+  "clips": [
+    {"file": "01_hero_twilight.jpg", "seconds": 4, "move": "in", "grade": "twilight",
+     "title_overlay": {"title": "THE DEMO", "subtitle": "A new tower in Midtown"}},
+    {"card": {"title": "THE BUILDING"}, "seconds": 2},
+    {"file": "02_lobby.jpg", "seconds": 2.5, "move": "right", "label": "Lobby"},
+    {"file": "03_pool.jpg", "seconds": 2.5, "move": "out", "label": "Resort-style pool", "transition": "cut"},
+    {"file": "04_unit.jpg", "seconds": 2.5, "move": "left", "label": "Standard unit",
+     "floorplan": {"title": "1 BED", "spec": "1 bd · 1 ba · 742 sf"}},
+    {"file": "05_drone.mp4", "seconds": 4, "grade": "natural", "speed": 0.75, "label": "The location"},
+    {"map": "map.json", "seconds": 7, "transition": "fade"},
+    {"card": {"title": "THE DEMO", "subtitle": "For sale as a whole",
+              "lines": ["23 stories · 339 units", "10,500 sf retail · 546-space garage"]}, "seconds": 4}
+  ],
+  "outro": {"title": "THOMAS®", "subtitle": "thomasproductionsco.com", "seconds": 2.5}
+}

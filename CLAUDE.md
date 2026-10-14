@@ -57,6 +57,14 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - **Fulfillment stages, in order:** Possible → Need Scheduling → Scheduling → Scheduled → Shoot Complete (was "Shot") → **Uploading** (shot, waiting on the raw files) → Post-Production (was "Editing"; files are in, editor has them) → QC → Client Approval → Delivered → Complete (plus Reshoot / Cancelled). Select options can't be renamed or deleted via the API, so to "rename" one: create the new option by writing it to a record with typecast, move every record off the old option, and leave the old one for James to delete. **Do it yourself — never hand James a manual step when the API can get there.**
 - Edits are outsourced. Set Editor of Record + Edit Due on the Fulfillment job when the editor is booked.
 
+## In-house video editing — REEL (`reel/`)
+
+- **The system is `reel/SOP.md`** (stages → what REEL does → clocks), the engine is `reel/engine/` (`autoedit.py` cut · `maps.py` location map · `qc.py` gate · `brief2job.py` brief → timeline), the human pass is `reel/QC-CHECKLIST.md`, how-to in `reel/README.md`. Skill: `/reel`. Self-test: `python3 reel/jobs/_demo/make_demo_media.py && python3 reel/engine/autoedit.py reel/jobs/_demo/job.json`.
+- Flow per video job: Edit Brief (written at close) → raws land (**Raw Footage Link** `fldQdzkYtLwN9o794`) → `brief2job.py` → preview → render 16:9 + 9:16 → machine QC + checklist → **QC Status** → James ticks **James Approved** → upload, **Final Video** `fldW4cXcw4dS7WFTU`, delivery draft → **Delivery Date** `fldjzeE8RRG4lFoRg` + **Quality Score** `fldAKrf99KOf46Hcm` + **Revision #** `fldrzQ5N2nEnJg8aM`. First cut ≤24 h after raws, delivered ≤48 h.
+- In-house is the default lane for listing / render-based / land+map / social cuts and text-card or trim revisions. Hero pass (shot-matched grade, tracked map overlays, 3D, lifestyle films) = outside editor booked by James — but render the in-house cut first as the safety net.
+- **This cloud container can't reach Dropbox, Box or Google Drive file downloads** (network policy) — the engine runs here on local media, and on James's Mac for real footage. Don't fake media; stop at a ready `job.json` and the command.
+- Earlier versions of this engine and its doctrine live on James's Mac / Drive under `04 DELIVERY/auto-editor/` (REEL v2, `DELIVERY-MASTERY.md`, `REVISION-PLAYBOOK.md`); FRAME is the photo counterpart.
+
 ## The Method (SILENZIO's program) — the kit lives in `the-method/`
 
 - The Method is a **90-day program** (not six months): 3 moves (Money In · The Machine · Step Out), 12 weeks, 15 courses (00–14), 105 lessons, 8 tracks. `the-method/README.md` lists every document and the week-by-week schedule.
