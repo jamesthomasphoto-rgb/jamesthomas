@@ -36,6 +36,7 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 
 ## How to work
 
+- **Source of truth for any job/deal is Airtable: the Deals table + the Fulfillment pipeline.** Email, Polina's updates and chat are supporting context only — check and update the Deals/Fulfillment record first, and treat it as correct when sources disagree.
 - Before creating a record, search first so you don't make duplicates.
 - Do what's asked, then say in one or two lines what changed and where (table + stage), so James can find it in the interface.
 - Confirm before deleting, bulk-editing, or sending anything (email, text, Stripe link) to another person.
