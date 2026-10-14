@@ -37,6 +37,12 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Deals has ~1.4k records; open pipeline (Opportunity/Negotiation/Closing) is ~100 deals.
 - Meetings table `tblDfk9jUD2xaAd4g`. James's standing Google Meet link: https://meet.google.com/fsa-nbbx-tjh
 - Other key tables: Companies `tblIk8qXYAdg1hcOb`, Students `tblMIrgkMaJmYaeht`, Fulfillment `tbl2QjzKP60oyofE5`, AR `tbl0SRNeFMNSgSDE5`, AP `tbldoE7aoc75NWEil`, Task `tblBGVvnDGkCmB9rv`.
+- **NDAs:** status lives on the People record — `NDA Status` (`fldKpup3eF6H45O2W`) plus a dated `[NDA · logged …]` entry in Deal Notes. Counsel is Mike Hale (mike@haleandhodgeslaw.com). The NDA files themselves live on James's Mac (`Desktop/Claude Code/10 THOMAS/05 MONEY & LEGAL/legal/`); the Drive copy of that folder stopped syncing 2026-09-08. Nick Price = People `rectIYUTpsW5oUkjs`.
+
+### Email access from cloud sessions
+
+- The `Gmail` connector in cloud sessions is signed in as **Polina's** account (pollysmnva@), not James's. Don't report on James's mail from it.
+- To see **james@thomasproductionsco.com** mail, use Notion search (`notion-search`): it indexes james@ Gmail and returns subject, sender and a snippet (not recipients, can't open the thread). Use it to check "did X go out".
 
 ## How to work
 
@@ -64,3 +70,12 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Brand look: black/off-white, Anton (display, uppercase) · Fraunces italic (subheads) · Epilogue (body). US Letter.
 - When James asks for "the method" documents, he means the whole kit: one-pager → program → outline → lesson guide → call plan → workbook → Vault. Deliver all of it without being asked item by item.
 - Never invent facts about James's results or stories; use `[STORY: …]` placeholders.
+
+### Open legal matter: Nick Price (opened 2026-10-13)
+
+- James says Nick is building something that was **James's idea**. Counsel: Mike Hale (mike@haleandhodgeslaw.com). Nick = People `rectIYUTpsW5oUkjs`; phone 810-471-8852; emails nick@thomasproductionsco.com + priceisrightkidfilm@gmail.com; own companies priceisrightkid LLC / westcenturyfilms.com.
+- Sent to Mike 2026-10-13 9:36 PM (james@ threads 1a138478e31707f9 + 1a13847496c13812): Mike's NDA draft + full 1:1 iMessage thread (Aug 2025–12 Oct 2026, 240 msgs). NDAs: Mike's draft 2026-01-21; Nick-signed "temporary NDA" 2026-03-14 (thread 19cde347a09a3af5). Which one governs is an open question for Mike.
+- Case-history doc: Drive `legal/matters` → "Nick Price — Case History for Counsel". Drive refused to share it with Mike from cloud, so it goes as a PDF. Section 1 (what the idea is, when James shared it) still needs James's input.
+- **Pending:** the Mac session ("Service offering categorization", session_01FLJKDaffZBU6Hsh5PKVwmL) is to export ALL iMessage (1:1 + groups), WhatsApp and email with Nick for 2025–2026 into `legal/NDAs/Nick Price/` and email it to Mike. Not confirmed sent. Check for it before re-asking.
+- Flag for counsel: ~$10,960 AP held to Nick since 2026-08-16 (incl. $8,510 labeled "Salary"). Nick was a paid coaching student ("Nick CEO", Mar 2026) and was given an Airtable passwords view (Jan 2026).
+- Rule: any outbound to Nick or about this case goes through James; never contact Nick.
