@@ -38,6 +38,12 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Meetings table `tblDfk9jUD2xaAd4g`. James's standing Google Meet link: https://meet.google.com/fsa-nbbx-tjh
 - Other key tables: Companies `tblIk8qXYAdg1hcOb`, Students `tblMIrgkMaJmYaeht`, Fulfillment `tbl2QjzKP60oyofE5`, AR `tbl0SRNeFMNSgSDE5`, AP `tbldoE7aoc75NWEil`, Task `tblBGVvnDGkCmB9rv`.
 
+### Call Center (cold calling)
+
+- Interface page People & Prospects → 📞 Call Center shows People with **Calls** (`fldYlAdBSHKLFFrtI`, select 0/1/2/3/4/5+) = 0. Calls = 0 means "call today".
+- James leaves notes in **Quick Note** (`fldDlxEOgG2ZV2niL`). Logging a call means: Calls +1, Last Contacted (`fldU36LBScLiU07TK`) and Last Called (`fld0rYiDhNeyt5jTx`) = the date, Call Outcome (`fldA9Swu7fh3mnNry`) set from the note.
+- Automation "📞 Call Center – load today's calls" (`wflcYjVHmm6w4LfXK`) runs daily at 7am Mexico City and fills the list back up to 25 New Prospects with a phone (Calls blank → 0).
+
 ## How to work
 
 - **Dates:** the server clock can be a day ahead of James. Ask or infer his local date/time before writing dated notes. (Oct 2026: he's in Mexico.) Contractors never get the client's identity — scope notes use a working name (e.g. "The Loft" for Midtown Tampa).
