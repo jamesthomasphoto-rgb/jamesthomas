@@ -50,7 +50,7 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 
 - **Write the edit brief the moment a video job closes**, not after the shoot. Template: `the-method/TEMPLATE-edit-brief.md`. Fill it from the deal's Request Details, put the link in the job's Notes, and it goes to the editor with the footage the day the shoot wraps.
 - **Fulfilment interface** (`pbdoHHbqWPBmtmRGy`) pages: **Shoots Fulfillment** (`pagSBuYja7bfuVE2E`, Fulfillment table, Workflow = Shoots, tabs Active/Editing, grouped by Stage) · **Master Fulfillment** (`pagNRnpvYYqS7Mw4A`, every non-shoot workflow — design, web, social, ads — with Stage / Co / Product Line dropdowns) · **Courses** (Students) · All Fulfilment · Schedule · Deadlines · the old Deals-based "Master Fulfilment". Fulfillment job field **🎬 Edit Brief** = `fldjTkFeKS0jUbs5q`.
-- **Fulfillment stages, in order:** Possible → Need Scheduling → Scheduling → Scheduled → Shot → Editing → QC → Client Approval → Delivered → Complete (plus Reshoot / Cancelled). **Shot** = shoot done, waiting on raw files. **Editing** only once the files are in and the editor has them.
+- **Fulfillment stages, in order:** Possible → Need Scheduling → Scheduling → Scheduled → Shoot Complete (was "Shot") → **Uploading** (shot, waiting on the raw files) → Post-Production (was "Editing"; files are in, editor has them) → QC → Client Approval → Delivered → Complete (plus Reshoot / Cancelled). Renaming select options can't be done via the API — James renames them in Airtable; new options can be created by writing them with typecast.
 - Edits are outsourced. Set Editor of Record + Edit Due on the Fulfillment job when the editor is booked.
 
 ## The Method (SILENZIO's program) — the kit lives in `the-method/`
