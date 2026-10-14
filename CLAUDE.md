@@ -44,6 +44,11 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Confirm before deleting, bulk-editing, or sending anything (email, text, Stripe link) to another person.
 - When something is learned about how James's system works, add it to this file.
 
+## Fulfillment rules (THOMAS®)
+
+- **Write the edit brief the moment a video job closes**, not after the shoot. Template: `the-method/TEMPLATE-edit-brief.md`. Fill it from the deal's Request Details, put the link in the job's Notes, and it goes to the editor with the footage the day the shoot wraps.
+- Edits are outsourced. Set Editor of Record + Edit Due on the Fulfillment job when the editor is booked.
+
 ## The Method (SILENZIO's program) — the kit lives in `the-method/`
 
 - The Method is a **90-day program** (not six months): 3 moves (Money In · The Machine · Step Out), 12 weeks, 15 courses (00–14), 105 lessons, 8 tracks. `the-method/README.md` lists every document and the week-by-week schedule.
