@@ -69,3 +69,12 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Brand look: black/off-white, Anton (display, uppercase) · Fraunces italic (subheads) · Epilogue (body). US Letter.
 - When James asks for "the method" documents, he means the whole kit: one-pager → program → outline → lesson guide → call plan → workbook → Vault. Deliver all of it without being asked item by item.
 - Never invent facts about James's results or stories; use `[STORY: …]` placeholders.
+
+### Open legal matter: Nick Price (opened 2026-10-13)
+
+- James says Nick is building something that was **James's idea**. Counsel: Mike Hale (mike@haleandhodgeslaw.com). Nick = People `rectIYUTpsW5oUkjs`; phone 810-471-8852; emails nick@thomasproductionsco.com + priceisrightkidfilm@gmail.com; own companies priceisrightkid LLC / westcenturyfilms.com.
+- Sent to Mike 2026-10-13 9:36 PM (james@ threads 1a138478e31707f9 + 1a13847496c13812): Mike's NDA draft + full 1:1 iMessage thread (Aug 2025–12 Oct 2026, 240 msgs). NDAs: Mike's draft 2026-01-21; Nick-signed "temporary NDA" 2026-03-14 (thread 19cde347a09a3af5). Which one governs is an open question for Mike.
+- Case-history doc: Drive `legal/matters` → "Nick Price — Case History for Counsel". Drive refused to share it with Mike from cloud, so it goes as a PDF. Section 1 (what the idea is, when James shared it) still needs James's input.
+- **Pending:** the Mac session ("Service offering categorization", session_01FLJKDaffZBU6Hsh5PKVwmL) is to export ALL iMessage (1:1 + groups), WhatsApp and email with Nick for 2025–2026 into `legal/NDAs/Nick Price/` and email it to Mike. Not confirmed sent. Check for it before re-asking.
+- Flag for counsel: ~$10,960 AP held to Nick since 2026-08-16 (incl. $8,510 labeled "Salary"). Nick was a paid coaching student ("Nick CEO", Mar 2026) and was given an Airtable passwords view (Jan 2026).
+- Rule: any outbound to Nick or about this case goes through James; never contact Nick.
