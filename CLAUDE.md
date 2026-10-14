@@ -36,6 +36,12 @@ Deal Name, Deal Stage (Unified), Heat, Deal Health etc. are formulas — don't w
 - Deals has ~1.4k records; open pipeline (Opportunity/Negotiation/Closing) is ~100 deals.
 - Meetings table `tblDfk9jUD2xaAd4g`. James's standing Google Meet link: https://meet.google.com/fsa-nbbx-tjh
 - Other key tables: Companies `tblIk8qXYAdg1hcOb`, Students `tblMIrgkMaJmYaeht`, Fulfillment `tbl2QjzKP60oyofE5`, AR `tbl0SRNeFMNSgSDE5`, AP `tbldoE7aoc75NWEil`, Task `tblBGVvnDGkCmB9rv`.
+- **NDAs:** status lives on the People record — `NDA Status` (`fldKpup3eF6H45O2W`) plus a dated `[NDA · logged …]` entry in Deal Notes. Counsel is Mike Hale (mike@haleandhodgeslaw.com). The NDA files themselves live on James's Mac (`Desktop/Claude Code/10 THOMAS/05 MONEY & LEGAL/legal/`); the Drive copy of that folder stopped syncing 2026-09-08. Nick Price = People `rectIYUTpsW5oUkjs`.
+
+### Email access from cloud sessions
+
+- The `Gmail` connector in cloud sessions is signed in as **Polina's** account (pollysmnva@), not James's. Don't report on James's mail from it.
+- To see **james@thomasproductionsco.com** mail, use Notion search (`notion-search`): it indexes james@ Gmail and returns subject, sender and a snippet (not recipients, can't open the thread). Use it to check "did X go out".
 
 ## How to work
 
