@@ -18,7 +18,7 @@ _Last updated: Fri Oct 17, 2026, ~6:40 pm (James's time, Mexico). Update this at
 ### Christopher Sharp — SILENZIO · Deals `rectdZUEQdmeKtzsg` · Opportunity.
 
 ## Mobile work (MOBILE-WORK doc in Master Claude Folder) — status 10/17 evening
-- Done this session: 4 (SCHEDULED-TASKS-REGISTRY doc created), 27 verified, 36 answered, Airtable→hub load (new), 12 in progress (31,920 zero-byte files being trashed in background from the "My MacBook Pro" backup — ~8k done at handoff, rest running; 11 empty-root-folder check NOT done).
+- Done this session: 4 (SCHEDULED-TASKS-REGISTRY doc created), 27 verified, 36 answered, Airtable→hub load (new), 12 STALLED (zero-byte trash of "My MacBook Pro" backup: ~837 of 31,920 done; the Composio sandbox was wiped 10/18 ~05:48Z and the file list went with it, so restarting needs a fresh scan. The job only ran ~20 files/hr, so a restart needs a faster method. 11 empty-root-folder check NOT done).
 - Smartlead (item 6): Brokers campaign 4151447 ACTIVE (49 sent/1 reply/2 bounces, 184 queued); nurture 4154596 still DRAFT with 0 leads. GoDaddy DNS / renewal: no access from cloud.
 - Needs James's Mac: 7 (AP sweep = Apple Mail), 10 Bitwarden, 11 (phone number), 23 (connector clicks + app updates).
 - On hold per James: 1B, 5 (bill due 10/25), 25, 26. Planning-only: 8, 28–35. 9 (LA sub-renter) awaiting OK to draft.
