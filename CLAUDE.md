@@ -2,7 +2,16 @@
 
 James runs THOMAS® (real-estate photo/video + social media), SILENZIO (mentorship / coaching) and CAPITAL. Most work in these sessions is on his Airtable, **MASTER OS**, not code. He's often live on a call and sends short messages ("he needs to be in the pipeline", "master os") — act fast, keep replies short and simple (a few lines, no long lists), and ask only when it truly matters.
 
-## MASTER OS — the source of truth
+## ⭐ THE HUB IS NOW PRIMARY (James, 10/19/2026)
+
+- **All work goes through the Thomas Production Hub, not Airtable.** https://thomas-production-hub.lovable.app — Lovable project `16ae45ec-2349-437b-85fa-1b9ab7f73185`. Airtable MASTER OS is now the **backup** (frozen snapshot as of 10/19; don't do daily work there).
+- Data lives in the hub's Postgres (Lovable Cloud / Supabase): table `airtable_records` (source_table = Airtable table name, record_key = Airtable rec id or `hub_<uuid>`, `fields` jsonb keyed by Airtable field NAMES). Edits made in the hub set `hub_modified=true`; every change is logged in `record_edits`; notes/calls/stage changes in `activity_log`.
+- **Read/write it with `mcp__Lovable__query_database`** (project id above). Fast views for Claude: `v_open_deals`, `v_active_jobs`, `v_ar_open`, `v_ap_open`, `v_students`. Example: "add him to the pipeline" = INSERT into airtable_records (source_table='Deals', record_key='hub_'||gen_random_uuid(), origin='hub', hub_modified=true, fields={Title, Co, Sales Stage, Product Line, Temp, Offer, Deal Notes…}) + an activity_log row.
+- Notes format inside notes fields: `[MM/DD] text`, newest first.
+- Never re-import from Airtable over rows with hub_modified=true.
+- Backups: hub System → "Export everything"; plus the offline zip in Drive (Master Claude Folder).
+
+## MASTER OS — Airtable (now the backup)
 
 - **Read `HANDOFF.md` first every session** — current state of every open job and what's next.
 
